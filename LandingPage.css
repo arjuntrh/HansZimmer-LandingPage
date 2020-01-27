@@ -1,0 +1,74 @@
+body {
+  background: url(https://www.nowplayingnashville.com/wp-content/uploads/sites/www.nowplayingnashville.com/images/2017/04/d1ab4a5e-fc40-4dfc-b41b-42538c2730cf_234621_TABLET_LANDSCAPE_LARGE_16_9.jpg);
+  background-size: cover;
+  background-position: center;
+} 
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.navbar {
+  background: rgba(0, 0, 0, 0.8);
+  border: transparent;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-brand:visited {
+  color: white;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: #ccd9ff;
+}
+
+.navbar-default .navbar-nav>li>a:visited {
+  color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #ccd9ff;
+}
+
+.content{
+  padding-top: 30%;
+  text-align: center;
+}
+
+h1 {
+  color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(0, 0, 0, 0.5);
+  font-family: 'Oxygen', sans-serif;
+}
+
+.buttonFormat {
+  background-color: transparent;
+  color: white;
+}
+
+.buttonFormat:focus {
+  background-color: transparent;
+  color: white;
+  outline: none;
+}
+
+.buttonFormat:hover {
+  background-color:  rgba(0, 0, 0, 0.8);
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.navbar-default .navbar-toggle:focus {
+  background-color:  rgba(0, 0, 0, 0.8);  
+}
+
+.navbar-default .navbar-toggle:hover {
+  background-color: rgba(102, 102, 102, 0.5);
+}
