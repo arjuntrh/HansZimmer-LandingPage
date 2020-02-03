@@ -1,2 +1,2 @@
 # HansZimmer-LandingPage
-Hans Zimmer website Landing Page (Fan made)
+Hans Zimmer website Landing Page.
